@@ -1,0 +1,4 @@
+letswave7-master = bdf to mat 툴킷
+letswave7-master/letswave7 = bdf to mat 코드 파일
+
+Preprocessing = 변환된 mat 파일 전처리 진행 코드
