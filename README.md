@@ -1,7 +1,7 @@
 # bioteam
 Version
-1. python = 3.6.x
-2. Tensorflow = 2.4.0 / Tensorflow-gpu = 2.4.0
+python = 3.6.x
+Tensorflow = 2.4.0 / Tensorflow-gpu = 2.4.0
 
 (Table of Contents)
 a. 각 생체신호의 특성
