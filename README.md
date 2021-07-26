@@ -3,7 +3,7 @@ Version
 1. python = 3.6.x
 2. Tensorflow = 2.4.0 / Tensorflow-gpu = 2.4.0
 
->> Table of Contents
+(Table of Contents)
 a. 각 생체신호의 특성
 b. 공개데이터에서의 특정 신호 추출
 c. 각 생체신호에 따른 전처리
